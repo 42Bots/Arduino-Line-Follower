@@ -2,7 +2,7 @@ Arduino-Line-Follower
 =====================
 
 A basic Line following robot powered by an Arduino Uno.</br>
-http://www.youtube.com/watch?v=1Q_QbmW_u5Q
+http://42bots.com/2013/05/arduino-line-following-bot-test-3/
 
 Parts list:</br>
 
