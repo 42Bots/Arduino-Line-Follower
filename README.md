@@ -7,7 +7,7 @@ http://42bots.com/2013/05/arduino-line-following-bot-test-3/
 Parts list:</br>
 
 <ul>
-  <li>1 x Arduino UnoM</li>
+  <li>1 x Arduino Uno</li>
   <li>1 x L298N Dual H Bridge module</li>
   <li>2 x DC Geared motors (6.0 volts, 300 RPM)</li>
   <li>6 x TCRT500L IR Emittor/collector pairs</li>
