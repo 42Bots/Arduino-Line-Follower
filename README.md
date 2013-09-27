@@ -1,19 +1,21 @@
 Arduino-Line-Follower
 =====================
 
-A basic Line following robot powered by an Arduino Uno.
+A basic Line following robot powered by an Arduino Uno.</br>
+http://www.youtube.com/watch?v=1Q_QbmW_u5Q
 
-Parts list:
+Parts list:</br>
 
-1) 1 x Arduino Uno
-2) 1 x L238D DC motor driver
-3) 2 x DC Geared motors (6.0 volts, 300 RPM)
-4) 6 x TCRT500L IR Emittor/collector pairs
-5) PVC base
-6) Caster wheel
-7) 1 x 9v battery
-8) 4 x AA 1.2v rechargeable batteries and a battery holder
-9) voltage booster 
-10) nuts / bolts / some hot glue
-11) 2 x wheels
-
+<ul>
+  <li>1 x Arduino UnoM</li>
+  <li>1 x L298N Dual H Bridge module</li>
+  <li>2 x DC Geared motors (6.0 volts, 300 RPM)</li>
+  <li>6 x TCRT500L IR Emittor/collector pairs</li>
+  <li>PVC base</li>
+  <li>Caster wheel</li>
+  <li>1 x 9v battery</li>
+  <li>4 x AA 1.2v rechargeable batteries and a battery holder</li>
+  <li>voltage booster</li>
+  <li>nuts / bolts / some hot glue</li>
+  <li>2 x wheels</li>
+</ul>
