@@ -1,9 +1,3 @@
-/*
-** Line Follower Basic
-** Version 0.6
-** Last Update: 2013-05-24
-** By Stan, http://42bots.com
-*/
 
 /* Define motor controll inputs */
 const int motorRPin1 = 2; // signal pin 1 for the right motor, connect to IN1               
