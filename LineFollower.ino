@@ -6,10 +6,7 @@ const int motorREnable = 5; // enable pin for the right motor (PWM enabled)
 
 const int motorLPin1 = 4; // signal pin 1 for the left motor, connect to IN3           
 const int motorLPin2 = 7; // signal pin 2 for the left motor, connect to IN4
-const int motorLEnable = 6; // enable pin for the left motor (PWM enabled)
-
-/* Define the pins for the IR receivers */
-const int irPins[6] = {A0, A1, A2, A3, A4, A5};
+const int motorLEnable = 6; // enable pin for the left motor (PWM ena
 
 /* Define values for the IR Sensor readings */
 
